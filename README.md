@@ -6,7 +6,7 @@ I’m a Full-Stack Software Engineer passionate about building efficient, scalab
 Automation & Web Design projects aimed at improving workflow efficiency.
 Sustainable tech and real-world problem-solving through clean, maintainable code.
 
-### My Tech stack
+### My Tech Stack
 
 ### Frontend Development  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -20,7 +20,7 @@ Sustainable tech and real-world problem-solving through clean, maintainable code
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 
-🌱 Currently Working On:
+### Currently Working On:
 
 Modern mobile & web applications with React & Django.
 
@@ -28,14 +28,14 @@ Automation tools and sustainability-focused tech solutions.
 
 Expanding into Machine Learning and integrating ML into production-ready apps.
 
-🤝 Collaboration
+### Collaboration
 
 I’m open to collaborating on innovative, challenging, and fast-paced projects, while continuously learning new frameworks and technologies.
 
-📫 Contact
+### Contact
 
 Reach me via email (andrewmogambi12@gmail.com) or through my number +254742048713.
 
-⚡ Fun Fact
+### Fun Fact
 
 I enjoy solving complex problems with calm clarity and practical innovation.
