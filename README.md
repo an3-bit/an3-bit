@@ -3,6 +3,10 @@
 I’m a Full-Stack Software Engineer passionate about building efficient, scalable, and user-friendly digital solutions.
 
 💻 What I Do:
+Automation & Web Design projects aimed at improving workflow efficiency.
+Sustainable tech and real-world problem-solving through clean, maintainable code.
+
+### My Tech stack
 
 ### Frontend Development  
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
@@ -15,11 +19,6 @@ I’m a Full-Stack Software Engineer passionate about building efficient, scalab
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-
-
-Automation & Web Design projects aimed at improving workflow efficiency.
-
-Sustainable tech and real-world problem-solving through clean, maintainable code.
 
 🌱 Currently Working On:
 
