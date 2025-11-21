@@ -4,11 +4,18 @@ I’m a Full-Stack Software Engineer passionate about building efficient, scalab
 
 💻 What I Do:
 
-Frontend Development: React, Next.js, Tailwind CSS
+### Frontend Development  
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB)
+### Backend Engineering  
+![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 
-Backend Engineering: Django & Django REST Framework, Node.js, Express, MongoDB
-
-Full-Stack (MERN & Django + React) application development
 
 Automation & Web Design projects aimed at improving workflow efficiency
 
@@ -16,11 +23,11 @@ Sustainable tech and real-world problem-solving through clean, maintainable code
 
 🌱 Currently Working On:
 
-Modern web applications with React & Django
+Modern mobile & web applications with React & Django.
 
-Automation tools and sustainability-focused tech solutions
+Automation tools and sustainability-focused tech solutions.
 
-Expanding into Machine Learning and integrating ML into production-ready apps
+Expanding into Machine Learning and integrating ML into production-ready apps.
 
 🤝 Collaboration
 
