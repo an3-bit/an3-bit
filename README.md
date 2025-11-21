@@ -17,9 +17,9 @@ I’m a Full-Stack Software Engineer passionate about building efficient, scalab
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 
 
-Automation & Web Design projects aimed at improving workflow efficiency
+Automation & Web Design projects aimed at improving workflow efficiency.
 
-Sustainable tech and real-world problem-solving through clean, maintainable code
+Sustainable tech and real-world problem-solving through clean, maintainable code.
 
 🌱 Currently Working On:
 
